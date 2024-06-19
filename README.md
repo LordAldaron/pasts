@@ -11,7 +11,7 @@
 [![Crates.io](https://img.shields.io/crates/l/pasts)](https://github.com/ardaku/pasts/search?l=Text&q=license)
 [![Docs.rs](https://docs.rs/pasts/badge.svg)](https://docs.rs/pasts/)
 
-Minimal and simpler alternative to the futures crate.
+**Minimal asynchronous runtime for Rust**
 
 The pasts asynchronous runtime is designed for creating user-space software and
 embedded software using an asynchronous event loop.  It aims to abstract away

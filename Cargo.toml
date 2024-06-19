@@ -2,7 +2,7 @@
 name = "pasts"
 version = "0.14.3"
 license = "Apache-2.0 OR BSL-1.0 OR MIT"
-description = "Minimal and simpler alternative to the futures crate."
+description = "Minimal asynchronous runtime for Rust"
 repository = "https://github.com/ardaku/pasts"
 documentation = "https://docs.rs/pasts"
 homepage = "https://github.com/ardaku/pasts/blob/stable/CHANGELOG.md"

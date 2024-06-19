@@ -1,4 +1,4 @@
-//! Minimal and simpler alternative to the futures crate.
+//! **Minimal asynchronous runtime for Rust**
 //!
 //! # Optional Features
 //! Only the _`std`_ feature is enabled by default
