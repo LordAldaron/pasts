@@ -42,7 +42,7 @@ impl Default for ThreadPark {
 
 impl Park for ThreadPark {
     fn park(&self) {
-        std::thread::park();
+        thread::park();
     }
 
     fn unpark(&self) {
