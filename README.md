@@ -67,6 +67,7 @@ that are designed to work well with pasts:
    asynchronous channel
  - [Smelling Salts] - Library for asynchronous device waking using OS APIs
  - [Lookit] - Library for asynchronously connecting to devices using OS APIs
+ - [Event Iterator] - Library for lending asynchronous iteration
 
 [^1]: Some features require a platform integration dependency, for instance:
       - **`web`** pulls in [`wasm-bindgen-futures`][14]
@@ -92,3 +93,4 @@ that are designed to work well with pasts:
 [Lookit]: https://docs.rs/crate/lookit
 [Smelling Salts]: https://docs.rs/crate/smelling_salts
 [Whisk]: https://docs.rs/crate/whisk
+[Event Iterator]: https://docs.rs/crate/event_iterator
