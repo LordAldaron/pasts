@@ -20,7 +20,7 @@ optional = true
 [dev-dependencies]
 async_main = { version = "0.4", features = ["pasts"] }
 async-std = "1.11"
-whisk = "0.12"
+whisk = "0.13"
 
 [target.'cfg(all(target_arch="wasm32", target_os="unknown"))'.dev-dependencies]
 wasm-bindgen = "0.2"
